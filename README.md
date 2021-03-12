@@ -1,3 +1,2 @@
-添加依赖
-yarn
-node testImage 运行
+添加依赖 yarn
+运行 node testImage 
